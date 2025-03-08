@@ -7,7 +7,7 @@ Jira,adopt,tools,FALSE,"Project management, team planning, organization, and req
 Lambda Functions,adopt,tools,TRUE,"Lightweight serverless workloads"
 ECS Fargate,adopt,tools,TRUE,"Lightweight serverless workloads"
 S3,adopt,tools,TRUE,"Highly available and persistent object storage"
-VS Code,tools,FALSE,"Programming IDE"
+VS Code,adopt,tools,FALSE,"Programming IDE"
 CockroachDB,trial,tools,TRUE,"Flexible, scaleable, fail-safe serverless, managed database, mostly compatible with PostgreSQL clients"
 Spacelift,trial,tools,TRUE,"Hosted Infrastructure as Code management"
 StepFunctions,trial,tools,TRUE,"Step-wise business workflow orchestration for long-running workflows"
